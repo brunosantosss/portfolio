@@ -9,7 +9,7 @@ export const Maintenance = () => {
                 <p>Oops... my portfolio is under maintenance, but look at this cat playing with the crochet ball, isn't it very cute?</p>
             </div>
             <div className={style.cat_container}>
-                <img src="../../src/assets/cat.svg" alt="Beautiful Cat by Storyset"/>
+                <img src="cat.svg" alt="Beautiful Cat by Storyset"/>
             </div>
         </section>
     )
